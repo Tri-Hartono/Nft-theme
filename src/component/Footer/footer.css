@@ -1,0 +1,50 @@
+.footer {
+  background-color: #000;
+}
+.footer h5 {
+  font-size: 1.1rem;
+  color: #fff;
+}
+.list__item {
+  background: transparent !important;
+  padding-left: 0 !important;
+  border: none !important;
+}
+.list__item a {
+  text-decoration: none;
+  color: #fff;
+  opacity: 85%;
+  font-size: 0.9rem;
+}
+.list__item a:hover {
+  color: #fff;
+  opacity: 100%;
+}
+.newsletter {
+  width: 100%;
+  border-radius: 50px;
+  color: #fff;
+  padding: 8px 25px;
+  margin: 20px 0px;
+  border: none;
+  outline: none;
+  font-size: 0.8rem;
+  background-color: #343444;
+}
+::placeholder {
+  color: #fff;
+  opacity: 100%;
+}
+.social__links a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #fff;
+  transition: 0.3s;
+}
+.social__links a:hover {
+  color: #e250e5;
+}
+.Copyright {
+  font-size: 0.8rem;
+}
